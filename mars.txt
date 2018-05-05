@@ -8,12 +8,3 @@ new line of words
 skljflajerhgaljebhviurt.
 This is my change
 
-new info.
-<<<<<<< HEAD
- 
-
-info for thurf commit
-
-elrwjbvwjrhtbv
-=======
->>>>>>> parent of 5dcea7c... third change
