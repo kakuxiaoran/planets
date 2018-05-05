@@ -6,6 +6,7 @@ jioj
 new line of words
 
 skljflajerhgaljebhviurt.
+This is my change
 
 new info.
 <<<<<<< HEAD
